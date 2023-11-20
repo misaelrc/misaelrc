@@ -1,21 +1,28 @@
-<h1 align="center">Hi 👋, I'm Misael Costa</h1>
+# Hello, I'm Misael Rosa 👋
 
+I'm a passionate computer engineering student and a developer with a focus on .NET and Angular. I enjoy diving into the intricacies of software systems and computer networking.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/misael-rosa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="misael-rosa/" height="30" width="40" /></a>
-</p>
+## 💻 Technologies & Tools
+
+- **Languages:** C#, JavaScript, TypeScript
+- **Web Development:** .NET, Angular
+- **Database:** SQL Server
+- **Other:** Git, Visual Studio
 <!--
-**misaelrc/misaelrc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌐 Projects
 
-Here are some ideas to get you started:
+- [Project Name](Link to project): Brief description of the project.
+- [Another Project](Link to project): Brief description of the project.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Education
+
+- **[Your University](University Website)**
+  - Bachelor of Science in Computer Engineering
+  - Expected Graduation: [Month, Year]
+
+## 🤝 Let's Connect
+
+- LinkedIn: [Your LinkedIn Profile](Link to LinkedIn)
+- GitHub: [Your GitHub Profile](Link to GitHub)-->
+
+Feel free to explore my repositories and reach out for collaborations or discussions. Happy coding! 🚀
