@@ -1,6 +1,6 @@
 # Hello, I'm Misael Rosa 👋
 
-I'm a passionate computer engineering student and a developer with a focus on .NET and Angular. I enjoy diving into the intricacies of software systems and computer networking.
+I'm a passionate computer engineering student and a developer with a focus on .NET and Angular. I enjoy diving into the intricacies of software systems and computer networks.
 
 ## 💻 Technologies & Tools
 
